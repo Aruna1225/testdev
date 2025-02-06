@@ -1,5 +1,8 @@
 #THIS IS OUR PGM
 #INCLUDE <STIDIO.H>
 MAIN()
-{ PRINTF ("HELLO MWORLD"
+{ 
+printf("hi world")
+
+PRINTF ("HELLO MWORLD"
 }
